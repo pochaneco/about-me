@@ -19,6 +19,8 @@
 ### 担当可能業務
 主に設計・製造がメインです。SIer時代はPLやSEとして要件定義からの参画経験もあり、バックエンドからフロントエンドまで、サーバーやネットワークの設定も一通り経験しておりますので、おおよそどの領域でも対応可能です。
 
+### 技術知識
+* ドメイン駆動設計
 * RESTfulなAPI設計
 * データベース設計
 * ユニットテスト
@@ -46,6 +48,7 @@
  クラウド型POSとその関連システムとして、実績データの他システム連携・集計ツールの設計・製造・構築・運用を担当しました。
 
 ### スキル
+
 #### プラットフォーム等
 * WEBアプリケーション
 * WEB API
@@ -71,12 +74,14 @@
 #### OS
 * Windows 
 * LINUX (CentOS / ubuntu / Amazon)
-* IBM i  / Z
+* IBM i / Z
 
 #### バックエンド
-* Laravel
-* Django
-* PHP Unit
+* PHP / Laravel
+* PHP / PHP Unit
+* Node.js / Express
+* Node.js / swagger
+* Python / Django
 
 #### フロントエンド
 * Vue
@@ -97,6 +102,7 @@
 * Redmine
 * Slack
 * WordPress サイト構築・運用
+* EC CUBE サイト構築・設定
 
 #### インフラ等
 * AWS ( EC2 / Route 53 / S3 / Elastic Beanstalk / IAM / RDS / VPC )
